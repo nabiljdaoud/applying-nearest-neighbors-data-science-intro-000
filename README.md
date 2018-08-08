@@ -148,7 +148,7 @@ The algorithm could pick up on things particular to our existing data set, but f
 
 #### Testing 
 
-To see whether the algorithm fits new data, we should test it with new data.  Data scientists cannot waste time waiting for new data to arrive, so they split their data in two: roughly 80 percent of the data for testing and 20 percent for training.  The training dataset is used for tweaking the algorithm, as we just saw, so that it minimizes the error or some other metric.  Once the algorithm is optimized, they study how well their algorithm performs on something it is not molded to, called test data.  If the algorithm performs well on this test data, it is ready for use and can make new predictions.
+To see whether the algorithm fits new data, we should test it with new data.  Data scientists cannot waste time waiting for new data to arrive, so they split their data in two: roughly 80 percent of the data for training and 20 percent for testing.  The training dataset is used for tweaking the algorithm, as we just saw, so that it minimizes the error or some other metric.  Once the algorithm is optimized, they study how well their algorithm performs on something it is not molded to, called test data.  If the algorithm performs well on this test data, it is ready for use and can make new predictions.
 
 #### All together
 
